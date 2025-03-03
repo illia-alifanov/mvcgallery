@@ -1,0 +1,12 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/GalleryPoc.Web/bin/Debug/net9.0
+/.vs/GalleryPoc/FileContentIndex
+/.vs/mvcgallery
+/.vs/slnx.sqlite
+/.vs/slnx.sqlite-journal
+/.vs/VSWorkspaceState.json
+/GalleryPoc.Web/obj
+/GalleryPoc.Web/wwwroot/uploads
